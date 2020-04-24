@@ -86,13 +86,13 @@ This dataset contains the various attributes required to predict the Saleprice o
 •	MoSold: Month Sold\
 •	YrSold: Year Sold\
 •	SaleType: Type of sale\
-•	SaleCondition: Condition of sale\
+•	SaleCondition: Condition of sale
 
 #### The 'test.csv' file contain all same attributes as of training set except that of the SalePrice attribute. We have to predict the Saleprice of the test set we are given and store it in a excel sheet.
 ## Authors
 The work on the following project was done by Piyush Singla and Nikhil Sharma.\
-Link to Piyush Singla kaggle account -> https://www.kaggle.com/mpiyu20\
-Link to Nikhil Sharma kaggle account -> https://www.kaggle.com/nikhilsharma4\
+Link to Piyush Singla kaggle account -> https://www.kaggle.com/mpiyu20 \
+Link to Nikhil Sharma kaggle account -> https://www.kaggle.com/nikhilsharma4
 
 
 
