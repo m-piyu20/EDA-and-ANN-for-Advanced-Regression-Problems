@@ -89,6 +89,8 @@ This dataset contains the various attributes required to predict the Saleprice o
 •	SaleCondition: Condition of sale\
 
 #### The 'test.csv' file contain all same attributes as of training set except that of the SalePrice attribute. We have to predict the Saleprice of the test set we are given and store it in a excel sheet.
+## Authors
+
 
 
 
