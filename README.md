@@ -3,7 +3,7 @@
 The kaggle link to download the dataset: \
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
-#### Context
+## Context
 This dataset contains the various attributes required to predict the Saleprice of different housing lots.
 
 ## Contents
@@ -88,8 +88,7 @@ This dataset contains the various attributes required to predict the Saleprice o
 •	SaleType: Type of sale\
 •	SaleCondition: Condition of sale\
 
-#### The 'test.csv' file contain all same attributes as of training set except that of the SalePrice attribute.
-#### We have to predict the Saleprice of the test set we are given and store it in a excel sheet.
+#### The 'test.csv' file contain all same attributes as of training set except that of the SalePrice attribute. We have to predict the Saleprice of the test set we are given and store it in a excel sheet.
 
 
 
