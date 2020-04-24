@@ -76,6 +76,22 @@ This dataset contains the various attributes required to predict the Saleprice o
 •	WoodDeckSF: Wood deck area in square feet\
 •	OpenPorchSF: Open porch area in square feet\
 •	EnclosedPorch: Enclosed porch area in square feet\
+•	3SsnPorch: Three season porch area in square feet\
+•	ScreenPorch: Screen porch area in square feet\
+•	PoolArea: Pool area in square feet\
+•	PoolQC: Pool quality\
+•	Fence: Fence quality\
+•	MiscFeature: Miscellaneous feature not covered in other categories\
+•	MiscVal: $Value of miscellaneous feature\
+•	MoSold: Month Sold\
+•	YrSold: Year Sold\
+•	SaleType: Type of sale\
+•	SaleCondition: Condition of sale\
+
+#### The 'test.csv' file contain all same attributes as of training set except that of the SalePrice attribute.
+#### We have to predict the Saleprice of the test set we are given and store it in a excel sheet.
+
+
 
 
 
