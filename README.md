@@ -1,15 +1,16 @@
 # EDA-and-ANN-for-Advanced-Regression-Problems
 ## Dataset
 The kaggle link to download the dataset: 
+
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 #### Context
 This dataset contains the various attributes required to predict the Saleprice of different housing lots.
 
 ## Contents
+SalePrice : the property's sale price in dollars. This is the target variable that you're trying to predict.
 
--SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
--MSSubClass: The building class
+MSSubClass: The building class
 MSZoning: The general zoning classification
 LotFrontage: Linear feet of street connected to property
 LotArea: Lot size in square feet
